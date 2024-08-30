@@ -1,9 +1,6 @@
 <div align="center">
   <h1>PROJECT ROME</h1>
-
-  <img src="./images/Project_Rome_logo.png" height="320" width="320"/></img>
-
-  PThis is **official** GitHub organization for the Project Rome and the [@Rome](https://www.roblox.com/groups/33852218/Rome#!/about) Roblox Group.
+  This is **official** GitHub organization for the Project Rome and the [@Rome](https://www.roblox.com/groups/33852218/Rome#!/about) Roblox Group.
 </div>
 
 <br />
